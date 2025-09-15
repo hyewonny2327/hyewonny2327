@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- 헤더 -->
+<img src="https://capsule-render.vercel.app/api?type=blur&color=3FB950&height=150&section=header&text=hyewonny's%20GitHub%20🌱&fontSize=28&fontColor=064420" />
 
-<!--
-**hyewonny2327/hyewonny2327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+복잡한 문제를 단순한 접근법으로 해결하고, 누구나 이해할 수 있게 설명하는  
+**웹 프론트엔드 개발자**입니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🪴 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" />
+</p>
+
+
+## 🪴 GitHub Stats
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=hyewonny2327&show_icons=true&theme=merko" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonny2327&layout=compact&theme=merko" height="150"/>
+</p>
+
+
+
+## 🪴 Contact
+
+<p align="left">
+  <a href="https://..."><img src="https://img.shields.io/badge/Blog-3FB950?logo=githubpages&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
+</p>
+
+
+<!-- 푸터 -->
+<img src="https://capsule-render.vercel.app/api?type=blur&color=3FB950&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=064420" />
