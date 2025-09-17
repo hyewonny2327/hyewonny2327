@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonny2327&layout=compact&theme=merko" height="150"/>
-
-
 
 ## 🪴 Contact
 
