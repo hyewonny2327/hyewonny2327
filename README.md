@@ -18,9 +18,4 @@
 </p>
 
 
-## 🪴 Contact
 
-<p align="left">
-  <a href="https://..."><img src="https://img.shields.io/badge/Blog-3FB950?logo=githubpages&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
-</p>
