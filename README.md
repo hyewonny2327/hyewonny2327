@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=3FB950&height=150&section=header&text=hyewonny's%20GitHub%20🌱&fontSize=28&fontColor=064420" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=3FB950&height=150&section=header&text=wonny's%20GitHub%20🌱&fontSize=28&fontColor=064420" />
 
 복잡한 문제를 단순한 접근법으로 해결하고, 누구나 이해할 수 있게 설명하는  
 **웹 프론트엔드 개발자**입니다.
